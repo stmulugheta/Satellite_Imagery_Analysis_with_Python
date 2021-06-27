@@ -1,6 +1,5 @@
 # Satellite Imagery Analysis With Python
-## Reference:Parul Pandey 2018.Satellite Imagery Analysis with Python.Medium, towards data science, Available online:  
- # https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32
+## Reference:Parul Pandey 2018.Satellite Imagery Analysis with Python.Medium, towards data science, Available online:https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32
 
 
 From the above articles we can understand the steps and the main objectives were:
